@@ -78,7 +78,7 @@
 /****** BACKGROUND IMAGE DE LA HERO SECTION *********************/
 
 #hero{
-    background-image: url('../img/HERO2.jpg');
+    background-image: url('../IMG/HERO2.jpg');
     background-size: cover;
     background-position: center;
 }
@@ -89,7 +89,7 @@
 @media only screen and (width>= 1000px){
 
        #hero{
-        background-image: url('../img/HERO3.jpg');
+        background-image: url('../IMG/HERO3.jpg');
         width: 100%;
        } 
 
